@@ -36,10 +36,8 @@ Furthermore, I'm a firm believer in open source projects and giving back to the 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Learning
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## Featured Projects
 
@@ -60,8 +58,6 @@ Collaborative academic project focused on Object-Oriented Design and advanced Ja
 Tech: Java 25, Gradle, JUnit 5, JaCoCo.
 
 ## Connect with Me
-
-Feel free to connect with me, I'm always looking to meet new developers.
 
 daudzaipopal@gmail.com
 
