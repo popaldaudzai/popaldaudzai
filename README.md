@@ -63,7 +63,10 @@ Tech: Java 25, Gradle, JUnit 5, JaCoCo.
 
 Feel free to connect with me, I'm always looking to meet new developers.
 
-- **Email:** daudzaipopal@gmail.com
-- **LinkedIn:** [popal-daudzai](https://www.linkedin.com/in/popal-daudzai/)
-- **Devpost:** [daudzaipopal](https://devpost.com/daudzaipopal?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- **GitHub:** [popaldaudzai](https://github.com/popaldaudzai)
+daudzaipopal@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/popal-daudzai/)
+
+[Devpost](https://devpost.com/daudzaipopal?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+[GitHub](https://github.com/popaldaudzai)
